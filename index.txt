@@ -1,0 +1,14 @@
+-PROBLEMA: APRIRE PACCHETTO DI FIGURINE-
+
+1-Prendere pacchetto di figurine 
+2-tiro fuori figurine dal pacchetto 
+3-prendo l'album delle figurine 
+4-inizio a scorrere figurine 
+    ? ho già questa figurina nell'album?
+        SE la carta è doppione
+            prendo il mazzetto dei doppioni
+            metto in un mazzetto a parte
+        ALTRIMENTI 
+        le attacco sull'album 
+
+
